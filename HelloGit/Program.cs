@@ -6,7 +6,7 @@ namespace HelloGit
     {
         public static void Main (string [] args)
         {
-            Console.WriteLine ("Yo!");
+            Console.WriteLine ("This is test number 2");
             Console.Read ();
         }
     }
